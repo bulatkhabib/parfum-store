@@ -1,5 +1,8 @@
 # parfum-store
  
+To start the project you need to write docker-compose up and press play
+ 
+ 
 - USERS Endpoint
 
 For unauthed users it's 2 endpoints - signup and login
