@@ -12,7 +12,7 @@ object Role extends SimpleAuthEnum[Role, String] {
 
   override def getRepr(t: Role): String = t.roleRepr
 
-  override protected val values: AuthGroup[Role] = AuthGroup(Admin, Customer)
+  override val values: AuthGroup[Role] = AuthGroup(Admin, Customer)
 
   implicit val eqRole: Eq[Role] = Eq.fromUniversalEquals[Role]
 }
