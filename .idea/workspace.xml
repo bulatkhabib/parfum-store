@@ -5,166 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3cff1ed5-903f-4653-a29c-a4e0efc31ccc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__ch_qos_logback_logback_classic_1_2_6_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__ch_qos_logback_logback_core_1_2_6_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__co_fs2_fs2_core_2_13_2_5_9_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__co_fs2_fs2_io_2_13_2_5_9_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_beachape_enumeratum_2_13_1_7_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_beachape_enumeratum_circe_2_13_1_7_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_beachape_enumeratum_macros_2_13_1_6_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_chuusai_shapeless_2_13_2_3_7_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_h2database_h2_1_4_200_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_lambdaworks_scrypt_1_4_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_twitter_hpack_1_0_2_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_config_1_4_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_zaxxer_HikariCP_4_0_3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__commons_codec_commons_codec_1_14_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__io_chrisdavenport_unique_2_13_2_0_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__io_chrisdavenport_vault_2_13_2_0_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__io_circe_circe_config_2_13_0_8_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__io_circe_circe_core_2_13_0_14_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__io_circe_circe_generic_2_13_0_14_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__io_circe_circe_generic_extras_2_13_0_14_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__io_circe_circe_jawn_2_13_0_14_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__io_circe_circe_literal_2_13_0_14_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__io_circe_circe_numbers_2_13_0_14_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__io_circe_circe_parser_2_13_0_14_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__io_github_jmcardon_tsec_bouncy_2_13_0_2_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__io_github_jmcardon_tsec_cipher_core_2_13_0_2_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__io_github_jmcardon_tsec_cipher_jca_2_13_0_2_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__io_github_jmcardon_tsec_common_2_13_0_2_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__io_github_jmcardon_tsec_hash_jca_2_13_0_2_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__io_github_jmcardon_tsec_http4s_2_13_0_2_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__io_github_jmcardon_tsec_jwt_core_2_13_0_2_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__io_github_jmcardon_tsec_jwt_mac_2_13_0_2_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__io_github_jmcardon_tsec_jwt_sig_2_13_0_2_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__io_github_jmcardon_tsec_mac_2_13_0_2_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__io_github_jmcardon_tsec_password_2_13_0_2_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__io_github_jmcardon_tsec_signatures_2_13_0_2_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_bouncycastle_bcprov_jdk15on_1_64_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_checkerframework_checker_qual_3_5_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_flywaydb_flyway_core_7_15_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_http4s_blaze_core_2_13_0_14_18_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_http4s_blaze_http_2_13_0_14_18_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_http4s_http4s_blaze_client_2_13_0_21_28_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_http4s_http4s_blaze_core_2_13_0_21_28_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_http4s_http4s_blaze_server_2_13_0_21_28_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_http4s_http4s_circe_2_13_0_21_28_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_http4s_http4s_client_2_13_0_21_28_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_http4s_http4s_core_2_13_0_21_28_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_http4s_http4s_dsl_2_13_0_21_28_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_http4s_http4s_jawn_2_13_0_21_28_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_http4s_http4s_server_2_13_0_21_28_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_http4s_jawn_fs2_2_13_1_0_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_http4s_parboiled_2_13_2_0_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_log4s_log4s_2_13_1_10_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_postgresql_postgresql_42_3_4_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_modules_scala_collection_compat_2_13_2_4_4_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_13_1_3_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_13_6_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_sbt_test_interface_1_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalacheck_scalacheck_2_13_1_15_4_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalactic_scalactic_2_13_3_2_9_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_2_13_3_2_9_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_compatible_3_2_9_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_core_2_13_3_2_9_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_diagrams_2_13_3_2_9_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_featurespec_2_13_3_2_9_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_flatspec_2_13_3_2_9_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_freespec_2_13_3_2_9_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_funspec_2_13_3_2_9_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_funsuite_2_13_3_2_9_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_matchers_core_2_13_3_2_9_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_mustmatchers_2_13_3_2_9_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_propspec_2_13_3_2_9_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_refspec_2_13_3_2_9_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_shouldmatchers_2_13_3_2_9_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_wordspec_2_13_3_2_9_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatestplus_scalacheck_1_14_2_13_3_2_2_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scodec_scodec_bits_2_13_1_1_27_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_slf4j_slf4j_api_1_7_30_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_tpolecat_doobie_core_2_13_0_13_4_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_tpolecat_doobie_free_2_13_0_13_4_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_tpolecat_doobie_h2_2_13_0_13_4_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_tpolecat_doobie_hikari_2_13_0_13_4_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_tpolecat_doobie_scalatest_2_13_0_13_4_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_tpolecat_typename_2_13_1_0_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_typelevel_cats_core_2_13_2_6_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_typelevel_cats_effect_2_13_2_5_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_typelevel_cats_free_2_13_2_6_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_typelevel_cats_kernel_2_13_2_6_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_typelevel_jawn_parser_2_13_1_1_2_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_typelevel_simulacrum_scalafix_annotations_2_13_0_5_4_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/db/migration/V1__InitialDatabaseSetup.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/db/migration/V2__FixPasswordsToBeHashedSecure.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/db/migration/V3__Authentication.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/logback.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/reference.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/io/github/bulatkhabib/parfumstore/Server.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/io/github/bulatkhabib/parfumstore/config/DatabaseConfig.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/io/github/bulatkhabib/parfumstore/config/ParfumStoreConfig.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/io/github/bulatkhabib/parfumstore/config/package.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/io/github/bulatkhabib/parfumstore/domain/ValidationError.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/io/github/bulatkhabib/parfumstore/domain/authentication/Auth.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/io/github/bulatkhabib/parfumstore/domain/authentication/LoginRequest.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/io/github/bulatkhabib/parfumstore/domain/carts/model/Cart.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/io/github/bulatkhabib/parfumstore/domain/carts/service/CartRepositoryAlgebra.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/io/github/bulatkhabib/parfumstore/domain/carts/service/CartService.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/io/github/bulatkhabib/parfumstore/domain/carts/validation/CartValidationAlgebra.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/io/github/bulatkhabib/parfumstore/domain/carts/validation/CartValidationInterpreter.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/io/github/bulatkhabib/parfumstore/domain/parfums/model/Parfum.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/io/github/bulatkhabib/parfumstore/domain/parfums/model/ParfumStatus.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/io/github/bulatkhabib/parfumstore/domain/parfums/service/ParfumRepositoryAlgebra.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/io/github/bulatkhabib/parfumstore/domain/parfums/service/ParfumService.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/io/github/bulatkhabib/parfumstore/domain/parfums/validation/ParfumValidationAlgebra.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/io/github/bulatkhabib/parfumstore/domain/parfums/validation/ParfumValidationInterpreter.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/io/github/bulatkhabib/parfumstore/domain/users/model/Role.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/io/github/bulatkhabib/parfumstore/domain/users/model/User.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/io/github/bulatkhabib/parfumstore/domain/users/service/UserRepositoryAlgebra.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/io/github/bulatkhabib/parfumstore/domain/users/service/UserService.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/io/github/bulatkhabib/parfumstore/domain/users/validation/UserValidationAlgebra.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/io/github/bulatkhabib/parfumstore/domain/users/validation/UserValidationInterpreter.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/io/github/bulatkhabib/parfumstore/infrastructure/endpoint/Pagination.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/io/github/bulatkhabib/parfumstore/infrastructure/endpoint/cart/CartEndpoints.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/io/github/bulatkhabib/parfumstore/infrastructure/endpoint/package.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/io/github/bulatkhabib/parfumstore/infrastructure/endpoint/parfum/ParfumEndpoints.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/io/github/bulatkhabib/parfumstore/infrastructure/endpoint/user/UserEndpoints.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/io/github/bulatkhabib/parfumstore/infrastructure/repository/doobie/Pagination.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/io/github/bulatkhabib/parfumstore/infrastructure/repository/doobie/auth/AuthSQL.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/io/github/bulatkhabib/parfumstore/infrastructure/repository/doobie/auth/DoobieAuthRepositoryInterpreter.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/io/github/bulatkhabib/parfumstore/infrastructure/repository/doobie/cart/CartSQL.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/io/github/bulatkhabib/parfumstore/infrastructure/repository/doobie/cart/DoobieCartRepositoryInterpreter.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/io/github/bulatkhabib/parfumstore/infrastructure/repository/doobie/parfum/DoobieParfumRepositoryInterpreter.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/io/github/bulatkhabib/parfumstore/infrastructure/repository/doobie/parfum/ParfumSQL.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/io/github/bulatkhabib/parfumstore/infrastructure/repository/doobie/user/DoobieUserRepositoryInterpreter.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/io/github/bulatkhabib/parfumstore/infrastructure/repository/doobie/user/UserSQL.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/parfum-store-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/parfum-store-build.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/parfum-store.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/parfum-store.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/io/github/bulatkhabib/parfumstore/infrastructure/repository/inmemory/ParfumRepositoryInMemoryInterpreter.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/io/github/bulatkhabib/parfumstore/infrastructure/repository/inmemory/UserRepositoryInMemoryInterpreter.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/io/github/bulatkhabib/parfumstore/Arbitraries.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/io/github/bulatkhabib/parfumstore/infrastructure/endpoint/parfums/ParfumEndpointsSpec.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/io/github/bulatkhabib/parfumstore/infrastructure/endpoint/users/AuthTest.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/io/github/bulatkhabib/parfumstore/infrastructure/endpoint/users/LoginTest.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/io/github/bulatkhabib/parfumstore/infrastructure/endpoint/users/UserEndpointsSpec.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$285924ce875cab5ad024.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$9538b096bdded612f68e.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$c55620a13b52258b1ba9.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/update/update_cache_2.13/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/update/update_cache_2.13/inputs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/update/update_cache_2.13/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/update/update_cache_2.13/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/csrLogger/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/_global/csrLogger/_global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/input_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/input_dsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/output_dsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/update/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/update/_global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/inputs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/managedClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/io/github/bulatkhabib/parfumstore/domain/users/model/Role.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/io/github/bulatkhabib/parfumstore/domain/users/model/Role.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -183,9 +32,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Scala Object" />
-        <option value="Package Object" />
-        <option value="Scala Trait" />
         <option value="Scala Class" />
+        <option value="Scala Trait" />
+        <option value="Package Object" />
       </list>
     </option>
   </component>
@@ -235,34 +84,84 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="Server" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="io.github.bulatkhabib.parfumstore.Server" />
+  <component name="RunManager" selected="ScalaTest.UserEndpointsSpec.get user by email">
+    <configuration name="ParfumEndpointsSpec.find by id" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
       <module name="parfum-store" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.github.bulatkhabib.parfumstore.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="allowRunningInParallel" value="false" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="testKind" value="Test name" />
+      <option name="testClassPath" value="io.github.bulatkhabib.parfumstore.infrastructure.endpoint.parfums.ParfumEndpointsSpec" />
+      <option name="testName" value="find by id" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
+    <configuration name="ParfumEndpointsSpec.find by status" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="parfum-store" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="selectedOptions">
+        <list />
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="testKind" value="Test name" />
+      <option name="testClassPath" value="io.github.bulatkhabib.parfumstore.infrastructure.endpoint.parfums.ParfumEndpointsSpec" />
+      <option name="testName" value="find by status" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParfumEndpointsSpec.update parfum" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="parfum-store" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="testKind" value="Test name" />
+      <option name="testClassPath" value="io.github.bulatkhabib.parfumstore.infrastructure.endpoint.parfums.ParfumEndpointsSpec" />
+      <option name="testName" value="update parfum" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserEndpointsSpec.create user and log in" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="parfum-store" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="testKind" value="Test name" />
+      <option name="testClassPath" value="io.github.bulatkhabib.parfumstore.infrastructure.endpoint.users.UserEndpointsSpec" />
+      <option name="testName" value="create user and log in" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserEndpointsSpec.get user by email" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="parfum-store" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="testKind" value="Test name" />
+      <option name="testClassPath" value="io.github.bulatkhabib.parfumstore.infrastructure.endpoint.users.UserEndpointsSpec" />
+      <option name="testName" value="get user by email" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Server" />
+        <item itemvalue="ScalaTest.UserEndpointsSpec.get user by email" />
+        <item itemvalue="ScalaTest.ParfumEndpointsSpec.find by status" />
+        <item itemvalue="ScalaTest.ParfumEndpointsSpec.update parfum" />
+        <item itemvalue="ScalaTest.ParfumEndpointsSpec.find by id" />
+        <item itemvalue="ScalaTest.UserEndpointsSpec.create user and log in" />
       </list>
     </recent_temporary>
   </component>
@@ -288,7 +187,11 @@
       <workItem from="1655850463391" duration="915000" />
       <workItem from="1655882307683" duration="168000" />
       <workItem from="1655882751731" duration="761000" />
-      <workItem from="1655883561812" duration="2862000" />
+      <workItem from="1655883561812" duration="3319000" />
+      <workItem from="1655899651204" duration="505000" />
+      <workItem from="1655919243368" duration="3478000" />
+      <workItem from="1655922747329" duration="5406000" />
+      <workItem from="1655930352925" duration="1060000" />
     </task>
     <servers />
   </component>
